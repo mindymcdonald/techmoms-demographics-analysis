@@ -7,7 +7,7 @@
 </div>
 
 ## Project Overview
-This data analysis project was completed as part of **Tech-Mom's Data Analysis & AI Program**. The objective was to clean, structure, and analyze student demographic data (as of July 31, 2024) to support data-driven insights. The dashboard visualizes key metrics regarding financial background, household structures, employment, and baseline education to showcase the impact of Tech-Moms' initiatives to donors and community stakeholders.
+This data analysis project was completed as part of **Tech-Mom's Data Analysis & AI Program**. The objective was to clean, structure, and analyze student demographic data (as of July 31, 2024) to support data-driven insights. The dashboard visualizes key metrics regarding financial background, household structure, employment, and baseline education to showcase the impact of Tech-Moms' initiatives to donors and community stakeholders.
 
 ---
 
