@@ -15,7 +15,7 @@ This data analysis project was completed as part of **Tech-Mom's Data Analysis &
 
 * **Driving Economic Security:** With **68% of students earning $35K or less** and **44% in households earning under $50K**, Tech-Moms is reaching the demographic that stands to gain the most upward economic mobility from high-paying tech careers.
 * **Creating Generational Impact:** Serving **39% single mothers/heads of households** and supporting **1,281 children** shows that Tech-Moms' training benefits entire family units with the potential for multi-generational impact.
-* **Breaking Down Barriers to Tech:** By serving **37% Women of Color** and **over 40% of students without a college degree**, the program successfully creates accessible, alternative pathways into the tech pipeline for underrepresented talent
+* **Breaking Down Barriers to Tech:** By providing tech education for **37% Women of Color** and **over 40% of students without a college degree**, the program creates accessible, alternative pathways into the tech pipeline for underrepresented talent.
 
 ---
 
@@ -37,4 +37,4 @@ This data analysis project was completed as part of **Tech-Mom's Data Analysis &
 ---
 
 ## Tools
-* **Spreadsheet Software:** Microsoft Excel (Pivot Tables, Functions, Conditional Formatting, Data Visualization)
+* **Microsoft Excele:** Pivot Tables, Functions, Conditional Formatting, Data Visualization
