@@ -37,4 +37,4 @@ This data analysis project was completed as part of **Tech-Mom's Data Analysis &
 ---
 
 ## Tools
-* **Microsoft Excele:** Pivot Tables, Functions, Conditional Formatting, Data Visualization
+* **Microsoft Excel:** Pivot Tables, Functions, Conditional Formatting, Data Visualization
